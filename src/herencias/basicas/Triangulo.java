@@ -1,6 +1,8 @@
 package herencias.basicas;
 
-public class Triangulo extends Punto {
+import interfaces.Espacios;
+
+public class Triangulo extends Punto implements Espacios {
 
 	
 	protected float base;

@@ -1,6 +1,8 @@
 package herencias.basicas;
 
-public class Cuadrado extends Punto {
+import interfaces.Espacios;
+
+public class Cuadrado extends Punto implements Espacios {
 
 	
 	protected float lado;

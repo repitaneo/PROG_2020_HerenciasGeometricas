@@ -1,6 +1,8 @@
 package herencias.basicas;
 
-public class Circulo extends Punto {
+import interfaces.Espacios;
+
+public class Circulo extends Punto implements Espacios {
 
 	protected float radio;
 
