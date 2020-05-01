@@ -1,4 +1,4 @@
-package herencia;
+package herencias.basicas;
 
 public abstract class Punto {
 

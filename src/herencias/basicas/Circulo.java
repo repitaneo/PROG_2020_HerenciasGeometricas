@@ -1,4 +1,4 @@
-package herencia;
+package herencias.basicas;
 
 public class Circulo extends Punto {
 
